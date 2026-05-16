@@ -1,0 +1,10 @@
+country code,country_long,name of powerplant,capacity in MW,latitude,longitude,primary_fuel,secondary fuel,other_fuel2,other_fuel3,start date,owner of plant,generation_gwh_2021,geolocation_source,estimated_generation_gwh_2021
+PHL,Philippines,BACMAN,130.0,13.0547,123.9678,Geothermal,,,,,,,GEODB,
+PHL,Philippines,LEYTE GPP,112.5,11.1308,124.6553,Geothermal,,,,,,,GEODB,
+PHL,Philippines,MAKBAN,442.8,14.0881,121.2264,Geothermal,,,,,,,GEODB,
+PHL,Philippines,MAKBAN-Binary,15.7,14.1447,121.3152,Geothermal,,,,,,,CARMA,
+PHL,Philippines,MANITO-Lowland,1.5,13.1235,123.8693,Geothermal,,,,,,,CARMA,
+PHL,Philippines,MT APO,109.0,7.0083,125.0894,Geothermal,,,,,,,CARMA,
+PHL,Philippines,PALINPINON GPP,192.5,9.3031,123.2141,Geothermal,,,,,,,GEODB,
+PHL,Philippines,TIWI,234.0,13.4655,123.6486,Geothermal,,,,,,,GEODB,
+PHL,Philippines,UNIFIED LEYTE,610.2,11.1308,124.6553,Geothermal,,,,,,,GEODB,
